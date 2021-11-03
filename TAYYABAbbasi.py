@@ -146,7 +146,7 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
    \033[1;92m███████▒▒Welcome To TAYYABABBASI▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mViruaHacker\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mVirusHacker\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mABBASIhacker
 \033[1;94mBlackMafia\033[1;91m: \033[1;91▒▓██████████████]100.%
 \033[1;94mFacebook\033[1;91m: \033[1;91M MURREE HACKERS
@@ -158,7 +158,7 @@ jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈
 jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin MRVIRUS00U\033[1;95m♡╰──────────•◈•──────────╯♡"
+print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin MRVIRUS007\033[1;95m♡╰──────────•◈•──────────╯♡"
 
 CorrectUsername = "MRVIRUSOP"
 CorrectPassword = "MANO12"
@@ -169,15 +169,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;94m🔐 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Baloch_hacker
+            print "Logged in successfully as " + username #Dev:Abbasi_hacker
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+            os.system('xdg-open https://www.facebook.com/MR.VIRUS.007.OFFICIAL.ACCOUNT')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+        os.system('xdg-open https://www.facebook.com/MR.VIRUS.007.OFFICIAL.ACCOUNT')
 
 def login():
 	os.system('clear')

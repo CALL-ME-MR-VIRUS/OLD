@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Shabir Baloch
+#The Credit For This Code Goes To Tayyab Abbasi
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:baloch_hacker
+#Dev:ABBASI-HACKER
 ##### LOGO #####
 logo = """
        \033[1;91m:
@@ -78,13 +78,13 @@ In many cases (such as GMail) you can simply copy the above color faded text and
     \033[1;94m::  
    \033[1;95m:::      
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
-  \033[1;91m:》》》\033[1;93m+923232132362\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
+  \033[1;91m:》》》\033[1;93m+923240964094\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-VIRUS-\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;92m..........................MRvirus......................
 \033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
 \033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Manhoor Choudary
 \033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mShabirBaloch\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mMRVIRUS\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 def tik():
 	titik = ['.   ','..  ','... ']

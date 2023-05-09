@@ -65,9 +65,9 @@ logo = """
 MR VIRUS 007 💯
 TAYYABABBASI🔴🔴
 WORLD WAR TRICKERS ⏏️⏏️
-PAKISTAN ZINDABAD🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰
+PAKISTAN ZINDABAD
 WE NEVER FORGET WE NEVER FORGIVE
-PAK HACKER🇵🇰🇵🇰🇵🇰🇵🇰
+PAK HACKER🇵🇰
 Monospace
 View Against Background: ▼
 Color Code:
@@ -160,8 +160,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin MRVIRUS007\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "MRVIRUSOP"
-CorrectPassword = "MANO12"
+CorrectUsername = "mrvirus"
+CorrectPassword = "virus007"
 
 loop = 'true'
 while (loop == 'true'):
